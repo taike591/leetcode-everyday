@@ -1,6 +1,15 @@
 
-	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÓŸ¸ÑıÿÿÿÿJ$4e11ce04-cc47-448a-ba89-818e5692d8ea
-V
-java:S1220""Move this file to a named package.J$8f65e132-1fd3-46b7-a69a-f0f2035ccd56
-ƒ
-java:S2094"BRemove this empty class, write its code or make it an "interface".(ÓŸ¸ÑıÿÿÿÿJ$5bfa5b70-569c-44c5-a5e4-cd1aa5458db3
+“	java:S117!"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤š†‰8¹ºÆØ„2J$1f587836-2991-43a8-8bbf-eed96be2c468
+“	java:S117!"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤š†‰8¹ºÆØ„2J$081ee4f3-1b0b-44f8-a396-b6e6b4509dd1
+¨
+java:S1488)"eImmediately return this expression instead of assigning it to the temporary variable "singleElement".(–êä8ººÆØ„2J$03b406e3-cebf-4da9-8e07-e1fdcd23dddb
+¦
+java:S1488;"^Immediately return this expression instead of assigning it to the temporary variable "result".(ëç‡‰úÿÿÿÿ8ôòËØ„2J$294ef606-006a-4856-a691-cc8d5f83b200
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÓŸ¸Ñıÿÿÿÿ8»ºÆØ„2J$d237c01a-f7fa-44eb-aa6e-66ac5a05e741
+]
+java:S1220""Move this file to a named package.8¼ºÆØ„2J$29405eea-1351-4767-b9b4-a9f0511a5901
+‡
+java:S1659"?Declare "i1" and all following declarations on a separate line.(ÈøÙúÿÿÿÿ8ÌªÊØ„2J$596b2c8f-b657-42a1-a64b-f92e93478558
+m
+java:S1197!"*Move the array designators [] to the type.(¤š†‰8»ÆØ„2J$504af377-f351-44f9-a3b8-f3c1200955ea
+m	java:S106I"+Replace this use of System.out by a logger.(é“³½8÷ÜÕØ„2J$1b3ea47a-e987-454b-abbd-82780281c3a1
